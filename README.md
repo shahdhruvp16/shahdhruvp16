@@ -47,18 +47,25 @@ From **AI-powered research** to **game development** and **responsive web design
 
 ---
 
-## 📫 Connect with Me  
+## 📊 GitHub Analytics  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-shah-27111b28a/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shahdhruvp16)  
-[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdhruvp16@gmail.com)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shahdhruvp16&show_icons=true&theme=tokyonight" alt="Dhruv's GitHub stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahdhruvp16&layout=compact&theme=tokyonight" alt="Top Languages" height="180px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shahdhruvp16&theme=tokyonight" alt="GitHub Streak" height="180px"/>
+</p>
 
 ---
 
-## 🏅 GitHub Achievements  
+## 🏅 Achievements  
 
 ![Pull Shark](https://img.shields.io/badge/Pull%20Shark-181717?style=flat&logo=github&logoColor=white)  
 ![Profile Views](https://komarev.com/ghpvc/?username=shahdhruvp16&label=Profile%20Views&color=blue&style=flat)  
+![GitHub Followers](https://img.shields.io/github/followers/shahdhruvp16?label=Followers&style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/shahdhruvp16?label=Stars&style=social)  
 
 ---
 
@@ -70,5 +77,21 @@ From **AI-powered research** to **game development** and **responsive web design
 
 ---
 
-✨ *Let’s connect & build something impactful together!* 🚀
+## 🌀 Profile Animation  
 
+<p align="center">
+  <img src="https://github.com/ashutosh00710/ashutosh00710/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Coding" width="400"/>  
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />  
+</p>
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-shah-27111b28a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shahdhruvp16)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdhruvp16@gmail.com)  
+
+---
+
+✨ *Let’s connect & build something impactful together!* 🚀

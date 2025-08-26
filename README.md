@@ -1,51 +1,74 @@
-# 👋 Hi, I’m Dhruv Shah
+# 👋 Hey there, I’m Dhruv Shah  
 
-## 🚀 About Me
+💡 *Final-Year Computer Science Student | AI Enthusiast | Web & Game Developer*  
 
-I’m a final-year Computer Science student passionate about building intelligent systems and interactive applications. I enjoy combining creativity with technology—whether it’s developing AI-powered solutions, designing games, or crafting responsive websites.
-
----
-
-## 🛠️ Skills & Technologies
-
-- **Programming Languages:** Python, JavaScript, C++, Java  
-- **Web Development:** HTML, CSS, Bootstrap, React.js  
-- **AI/ML:** Machine Learning, Deep Learning, Generative AI, Algorithms (BFS, Minimax, etc.)  
-- **Databases:** MySQL, MongoDB  
-- **Other Tools:** Git/GitHub, OpenAI API, .NET, NuGet, Tailwind CSS  
+I’m passionate about **building intelligent systems, interactive applications, and creative tech solutions**.  
+From **AI-powered research** to **game development** and **responsive web design**, I love turning ideas into impactful digital experiences.  
 
 ---
 
-## 🌟 Projects & Highlights
+## 🚀 About Me  
 
-- 🕹️ **Checkers Game (with Minimax AI):** Single & two-player versions with a 3D effect and smart AI moves.
-- 🧟 **Zombie Survival Game:** BFS-based AI zombies chasing the player with obstacles, power-ups, and strong UI/UX.
-- 📊 **Generative AI Workshop:** Conducted a 3-day AI workshop for juniors, designing interactive sessions and projects.
-- 🌍 **School Website Development:** Built a dynamic, responsive website for Amrit Vidhyalay during internship.
-- 🤖 **Research:** Working on AI/ML/DL models for sign language translation, drug discovery acceleration, and space research applications.
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-shah-27111b28a/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github)](https://github.com/shahdhruvp16)
-[![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:shahdhruvp16@gmail.com)
+- 🎓 Final-year **Computer Science student** exploring AI/ML, Generative AI, and interactive systems.  
+- 🛠️ Skilled in **web development, algorithms, and software engineering**.  
+- 🌌 Curious about **space research, AR/VR, and AI for social good**.  
+- ✨ A mix of **creativity + technology** (love designing, coding, and experimenting).  
 
 ---
 
-## 🏅 GitHub Badges
+## 🛠️ Tech Stack & Skills  
 
-![Pull Shark](https://img.shields.io/badge/Pull%20Shark-181717?style=flat&logo=github&logoColor=white)
-
----
-
-## ⚡ Fun Facts
-
-- Love exploring AI-powered creativity (like building my own Jarvis-style assistant 🤖).
-- Interested in space research, AR/VR, and AI for social good.
-- Enjoys writing shayaris, designing logos, and experimenting with UI/UX.
+**💻 Programming:** Python | JavaScript | C++ | Java  
+**🌐 Web:** HTML | CSS | Bootstrap | Tailwind CSS | React.js  
+**🤖 AI/ML:** Machine Learning | Deep Learning | Generative AI | Algorithms (BFS, Minimax, etc.)  
+**🗄️ Databases:** MySQL | MongoDB  
+**⚙️ Tools & Frameworks:** Git/GitHub | .NET | NuGet | OpenAI API  
 
 ---
 
-✨ *Let’s connect and build something amazing together!*
+## 🌟 Featured Projects  
+
+- 🎮 **Checkers Game (with Minimax AI):**  
+  3D-style checkers with **single & two-player modes**, move hints, timers, and AI-driven strategy.  
+
+- 🧟 **Zombie Survival Game (BFS-based):**  
+  BFS-powered AI zombies 🧟 chase the player through a maze with **obstacles, power-ups, and clean UI/UX**.  
+
+- 🏫 **School Website Development (Amrit Vidhyalay):**  
+  Designed & developed a **dynamic, responsive website** during my internship.  
+
+- 📊 **Generative AI Workshop:**  
+  Conducted a **3-day interactive workshop** for juniors covering **AI tools, projects, and real-world applications**.  
+
+- 🤖 **Research Contributions:**  
+  - Sign language → speech & vice versa (**AI/ML/DL**)  
+  - AI in **drug discovery**  
+  - Space research (**meteorology, oceanography, space weather**)  
+
+---
+
+## 📫 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruv-shah-27111b28a/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/shahdhruvp16)  
+[![Gmail](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shahdhruvp16@gmail.com)  
+
+---
+
+## 🏅 GitHub Achievements  
+
+![Pull Shark](https://img.shields.io/badge/Pull%20Shark-181717?style=flat&logo=github&logoColor=white)  
+![Profile Views](https://komarev.com/ghpvc/?username=shahdhruvp16&label=Profile%20Views&color=blue&style=flat)  
+
+---
+
+## ⚡ Fun Facts  
+
+- 🤖 Building my own **Jarvis-style AI assistant**.  
+- 🚀 Fascinated by **space exploration & AI for humanity**.  
+- 🎨 Love writing **shayaris**, designing **logos**, and experimenting with **UI/UX**.  
+
+---
+
+✨ *Let’s connect & build something impactful together!* 🚀
+
